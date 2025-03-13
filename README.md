@@ -52,4 +52,6 @@ https://yogeshtiwari2000.github.io/Projects/tic%20tac%20toe
 
 Demo : https://textutilitieshai.netlify.app/
 
+Demo : "https://expensetracktodo.netlify.app/ "
+
 
