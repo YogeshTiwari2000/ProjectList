@@ -2,6 +2,9 @@
 DEMO FOR Angular Ionic Based : CarPool App 
 https://yogeshtiwari2000.github.io/CarPool/welcome
 
+DEMO FOR Angular Dashboard: 
+https://github.com/YogeshTiwari2000/assignmentDashboard
+
 DEMO FOR Angular and MongoDb Based : votingService App
 https://yogeshtiwari2000.github.io/votingService/
 
